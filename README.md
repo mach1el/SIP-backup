@@ -3,6 +3,19 @@
 
 These configures was used for some call center,SIP infrastructure.
 
+Pathes
+
+    ├── asterisk
+    │   ├── extension.conf
+    │   └── sip.conf
+    ├── kamailio
+    ├── opensips
+    │   └── opensips.cfg
+    └── rtpengine
+        ├── rtpengine.conf
+            └── rtpengine-recording.conf
+
+
 | Tech  | Saved |
 |:-----:|:-----:|
 | Kamailio | :heavy_check_mark: |
