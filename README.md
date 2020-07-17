@@ -1,2 +1,3 @@
-# Sip-backup
-Backing up SIP tech conf,kamailio,opensips,...
+# SIP cfg backup
+
+These configures was used for some call center,SIP infrastructure.
