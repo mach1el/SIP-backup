@@ -13,7 +13,7 @@ Pathes
     │   └── opensips.cfg
     └── rtpengine
         ├── rtpengine.conf
-            └── rtpengine-recording.conf
+        └── rtpengine-recording.conf
 
 
 | Tech  | Saved |
